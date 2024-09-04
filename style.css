@@ -1,0 +1,76 @@
+.body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.container {
+    /* background-color: hsl(216, 50%, 16%);
+    width: 300px;
+    height: 400px;
+    margin-left: 380px;
+    border-radius: 10px; */
+    width: 300px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px ;
+    margin: 150px auto;
+    height: 500px;
+   
+}
+
+
+.cubeimage {
+   
+    /* border-radius: 15px;   
+    width: 80%;
+    padding: 30px;
+    */
+    border-radius: 50px;
+    padding: 30px;
+    width: 80%;
+}
+.equi34 {
+    color: white;
+    padding-left: 30px;
+}
+.equicoll {
+    width: 280px;
+    padding-left: 30px;
+    color:  hsl(215, 32%, 27%);
+}
+.ethlogo {
+    width: 4%;
+    padding-left: 30px;
+    padding-inline-end: 8px;
+    float: left;
+}
+.eth {
+    color: aqua;
+    font-weight: bold;
+    font-size: small;
+    font-family: "Outfit",sans-serif;
+    padding-inline-end: 35px;
+}
+.time {
+    font-size: smaller;
+    color:  hsl(215, 32%, 27%);
+}
+.clock {
+    padding-right: 30px;
+    padding-inline-end: 5px;
+}
+.line {
+    width: 80%;
+}
+.avatars {
+    width: 9%;
+    padding-inline-start: 30px;
+    float: left;
+}
+.creation {
+    color:  hsl(215, 32%, 27%);
+    padding-inline-end: 5px;
+    padding-left: 15px;
+    padding-top: 30px;
+}
+.jules {
+    color: white;
+}
